@@ -16,7 +16,7 @@ namespace EscriturasArchivos
             //si ya existe, escribira en el 
 
             string[] lines = new string[3];
-            {
+                {
                 Console.WriteLine("Cual es el nombre del usuario?: ");
                 lines[0] = Console.ReadLine();
                 Console.WriteLine("Cual es la edad?: ");
@@ -25,7 +25,7 @@ namespace EscriturasArchivos
                 lines[2] = Console.ReadLine();
             };
 
-                foreach (string line in lines)
+            foreach (string line in lines)
             {
                 sw.WriteLine(line);
             }
