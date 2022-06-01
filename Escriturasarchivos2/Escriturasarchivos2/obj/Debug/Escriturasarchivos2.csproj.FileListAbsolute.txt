@@ -1,0 +1,7 @@
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\bin\Debug\Escriturasarchivos2.exe.config
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\bin\Debug\Escriturasarchivos2.exe
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\bin\Debug\Escriturasarchivos2.pdb
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\obj\Debug\Escriturasarchivos2.csproj.AssemblyReference.cache
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\obj\Debug\Escriturasarchivos2.csproj.CoreCompileInputs.cache
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\obj\Debug\Escriturasarchivos2.exe
+C:\Users\bpere\Desktop\POO unidad 5\EscriturasArchivos2\Escriturasarchivos2\Escriturasarchivos2\obj\Debug\Escriturasarchivos2.pdb
